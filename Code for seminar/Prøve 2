@@ -1,0 +1,3 @@
+url = "https://raw.githubusercontent.com/alex569-M10/Seminar-FEA/Data/Samlet data, daily.xlsx"
+df = pd.read_csv(url)
+
